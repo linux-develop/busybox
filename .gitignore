@@ -4,6 +4,7 @@
 .config*
 *.in
 Kbuild
+*.swp
 *.out
 *.map
 *.cmd
@@ -40,3 +41,6 @@ scripts/kconfig/conf
 scripts/kconfig/lex.zconf.c
 scripts/kconfig/zconf.hash.c
 scripts/kconfig/zconf.tab.c
+scripts/kconfig/lxdialog/lxdialog
+scripts/kconfig/mconf
+
